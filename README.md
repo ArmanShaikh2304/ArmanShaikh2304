@@ -76,7 +76,7 @@ I enjoy designing systems that emphasize:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 
 </p>
 
@@ -84,7 +84,7 @@ I enjoy designing systems that emphasize:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,vite" />
 
 </p>
 
@@ -92,7 +92,7 @@ I enjoy designing systems that emphasize:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask,mysql" />
 
 </p>
 
@@ -100,7 +100,7 @@ I enjoy designing systems that emphasize:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,figma,vercel,netlify" />
 
 </p>
 
@@ -119,170 +119,8 @@ I enjoy designing systems that emphasize:
 
 ---
 
-# Featured Projects
 
-<details>
-<summary><b>GST Recon — MERN Stack GST Reconciliation Platform</b></summary>
 
-### Overview
-
-Production-oriented GST reconciliation platform designed to identify invoice mismatches and improve financial compliance workflows.
-
-| Metric | Details |
-|---------|----------|
-| Stack | MongoDB, Express.js, React.js, Node.js |
-| Scale | Enterprise-style GST workflow |
-| Performance | Optimized dashboard reporting |
-| Security | Role-based workflow architecture |
-| Impact | Improved reconciliation visibility |
-| Repository | Coming Soon |
-
-### Engineering Highlights
-
-- Automated invoice mismatch detection
-- ITC risk tracking system
-- Dashboard-driven reporting
-- Workflow automation
-- Scalable MERN architecture
-
-</details>
-
-<details>
-<summary><b>FairLens — AI Fairness Auditing Platform</b></summary>
-
-### Overview
-
-An AI auditing platform focused on fairness evaluation, bias detection, explainability, and transparent AI reporting.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Python, AI Tooling, Analytics |
-| Scale | Ethical AI Evaluation |
-| Performance | Automated fairness assessment |
-| Security | Transparent reporting mechanisms |
-| Impact | Responsible AI adoption |
-| Repository | Coming Soon |
-
-### Engineering Highlights
-
-- Bias detection workflows
-- Explainable AI reports
-- Ethical AI insights
-- Fairness score evaluation
-- Responsible AI framework
-
-</details>
-
-<details>
-<summary><b>FoodNest — Food Ordering Platform</b></summary>
-
-### Overview
-
-Responsive food ordering application focused on seamless navigation and user experience.
-
-| Metric | Details |
-|---------|----------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Multi-section food platform |
-| Performance | Optimized UI rendering |
-| Security | Frontend validation |
-| Impact | Enhanced customer experience |
-| Repository | Coming Soon |
-
-### Engineering Highlights
-
-- Responsive design
-- Interactive UI
-- Product categorization
-- Mobile-first architecture
-- Smooth user navigation
-
-</details>
-
-<details>
-<summary><b>THE CLEYN — E-Commerce Footwear Store</b></summary>
-
-### Overview
-
-Modern e-commerce storefront focused on engagement, responsiveness, and product discovery.
-
-| Metric | Details |
-|---------|----------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | E-Commerce Frontend |
-| Performance | Fast UI interactions |
-| Security | Secure frontend practices |
-| Impact | Improved user engagement |
-| Repository | Coming Soon |
-
-### Engineering Highlights
-
-- Interactive product cards
-- Advanced hover effects
-- Responsive layouts
-- Dropdown navigation
-- Conversion-oriented UI
-
-</details>
-
----
-
-# Experience
-
-## Python Programming Intern
-### Internshala Training Program
-
-**Jan 2024 – Mar 2024**
-
-Professional training focused on Python programming, object-oriented development, GUI applications, and database integration. :contentReference[oaicite:1]{index=1}
-
-#### Scope of Work
-
-- Python fundamentals
-- Object-Oriented Programming
-- SQLite integration
-- PyQt GUI development
-- Application design principles
-
-**Skills:** `Python` `OOP` `SQLite` `PyQt`
-
----
-
-## Data Analytics Virtual Intern
-### Deloitte Australia
-
-**Oct 2025**
-
-Worked on analytics workflows involving data cleaning, visualization, and business insight generation. :contentReference[oaicite:2]{index=2}
-
-#### Scope of Work
-
-- Data preparation
-- Dashboard creation
-- Business reporting
-- Data visualization
-
-**Skills:** `Analytics` `Visualization` `Business Intelligence`
-
----
-
-## Controllers Division Virtual Experience
-### Goldman Sachs
-
-**Oct 2025**
-
-Gained exposure to budgeting processes, financial reporting systems, and risk analysis workflows. :contentReference[oaicite:3]{index=3}
-
-#### Scope of Work
-
-- Financial reporting
-- Risk analysis
-- Budget planning
-- Operational controls
-
-**Skills:** `Finance Analytics` `Risk Assessment`
-
----
 
 # Achievements
 
@@ -370,15 +208,6 @@ Gained exposure to budgeting processes, financial reporting systems, and risk an
 
 </div>
 
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArmanShaikh2304&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
 
 ---
 
