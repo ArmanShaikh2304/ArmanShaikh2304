@@ -106,67 +106,12 @@ I enjoy designing systems that emphasize:
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| AI Fundamentals | Intermediate | Machine Learning concepts, model evaluation, AI ethics |
-| Responsible AI | Intermediate | Fairness auditing, bias detection, explainability |
-| Data Analytics | Intermediate | Data cleaning, visualization, reporting |
-| Predictive Systems | Intermediate | Data-driven decision making |
-| AI Product Development | Intermediate | End-to-end AI solution design |
-| Generative AI | Learning | LLM workflows, prompt engineering, AI tooling |
-
----
 
 
 
 
-# Achievements
 
-<div align="center">
 
-| Recognition | Details |
-|------------|----------|
-| Hackathon Participant | Azure Hackathon |
-| Competitive Builder | Battle for the Iron Throne 24-Hour Hackathon |
-| Full Stack Developer | Multiple Production-Oriented Projects |
-| AI Innovator | FairLens AI Fairness Platform |
-| Continuous Learner | AWS, Full Stack, Data Analytics Certifications |
-
-</div>
-
----
-
-# Certifications
-
-## AWS
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-## Additional Certifications
-
-![Frontend Development](https://img.shields.io/badge/Front--End-Web%20Development-7C3AED?style=for-the-badge)
-
-![Full Stack Bootcamp](https://img.shields.io/badge/Full%20Stack-Udemy-A855F7?style=for-the-badge)
-
-![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics-6366F1?style=for-the-badge)
-
-![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Virtual%20Experience-4F46E5?style=for-the-badge)
-
----
 
 # Coding Profiles
 
