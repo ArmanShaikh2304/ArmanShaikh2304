@@ -35,7 +35,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ArmanShaikh2304&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/ArmanShaikh2304?style=for-the-badge&color=7C3AED)
 
 ![](https://img.shields.io/github/stars/ArmanShaikh2304?affiliations=OWNER&style=for-the-badge&color=A855F7)
 
