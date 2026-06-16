@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Arman%20Shaikh&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Arman%20Shaikh&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%&descAlignY=55" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%7C+Open+Source+Contributor;Building+Scalable+Digital+Products" />
 
