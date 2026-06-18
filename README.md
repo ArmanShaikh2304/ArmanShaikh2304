@@ -108,9 +108,6 @@ I enjoy designing systems that emphasize:
 
 
 
-
-
-
 # Coding Profiles
 
 <div align="center">
