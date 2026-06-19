@@ -33,7 +33,7 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=ArmanShaikh2304&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=ArmanShaikh2304&style=for-the-badge&color=7C3AED)   
 
 
 
