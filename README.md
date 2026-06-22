@@ -45,7 +45,7 @@
 
 I am a **Computer Science Engineering student** passionate about building scalable software systems, intelligent applications, and modern web experiences. My focus lies in combining **Software Engineering**, **Artificial Intelligence**, and **Full Stack Development** to create impactful digital products.
 
-With experience in **C, C++, Python, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, and AWS fundamentals**, I continuously work on strengthening my problem-solving skills through Data Structures & Algorithms, Competitive Programming, Hackathons, and Real-World Projects. :contentReference[oaicite:0]{index=0}
+With experience in **C, C++, Python, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, and AWS fundamentals**, I continuously work on strengthening my problem-solving skills through Data Structures & Algorithms, Competitive Programming, Hackathons, and Real-World Projects. :contentReference[oaicite:0]{index=0} 
 
 I enjoy designing systems that emphasize:
 
