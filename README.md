@@ -225,8 +225,8 @@ Open_To:
 
 ---
 
-<div align="center">
-
+<div align="center"> 
+ 
 ### "Engineering impactful software through innovation, scalability, and continuous learning."  
 
 </div>
