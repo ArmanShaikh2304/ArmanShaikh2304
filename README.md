@@ -151,16 +151,6 @@ I enjoy designing systems that emphasize:
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanShaikh2304&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # Contribution Snake
 
 <div align="center">
